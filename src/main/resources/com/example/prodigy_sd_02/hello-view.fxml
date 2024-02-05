@@ -14,14 +14,14 @@
             <Font size="18.0" />
          </font>
       </TextField>
-      <Button layoutX="432.0" layoutY="51.0" mnemonicParsing="false" onMouseClicked="#generate" text="Generate">
+      <Button layoutX="431.0" layoutY="52.0" mnemonicParsing="false" onMouseClicked="#generate" text="Generate">
          <font>
-            <Font size="18.0" />
+            <Font size="20.0" />
          </font>
       </Button>
-      <Label layoutX="70.0" layoutY="57.0" text="Range">
+      <Label layoutX="74.0" layoutY="56.0" text="Range">
          <font>
-            <Font size="18.0" />
+            <Font size="20.0" />
          </font>
       </Label>
       <TextField fx:id="guessInput" layoutX="167.0" layoutY="168.0">
@@ -29,14 +29,14 @@
             <Font size="18.0" />
          </font>
       </TextField>
-      <Label layoutX="52.0" layoutY="174.0" text="Your guess">
+      <Label layoutX="53.0" layoutY="173.0" text="Your guess">
          <font>
-            <Font size="18.0" />
+            <Font size="20.0" />
          </font>
       </Label>
-      <Button layoutX="444.0" layoutY="168.0" mnemonicParsing="false" onMouseClicked="#checkInput" text="Check">
+      <Button layoutX="444.0" layoutY="169.0" mnemonicParsing="false" onMouseClicked="#checkInput" text="Check">
          <font>
-            <Font size="18.0" />
+            <Font size="20.0" />
          </font>
       </Button>
       <Text fx:id="output" layoutX="378.0" layoutY="267.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="204.205078125">
